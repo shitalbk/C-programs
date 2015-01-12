@@ -3,6 +3,6 @@
 using namespace std;
 int main()
 {
-   	cout<<"C++ is an object oriented language";
+   	cout<"C++ is object oriented programming language.";
    	getch();
 }
